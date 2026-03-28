@@ -1,22 +1,22 @@
-# 📊 Customer Churn Dashboard
+#  Customer Churn Dashboard
 
-## 📌 Project Overview
+## Project Overview
 This project is an interactive dashboard built using Streamlit to analyze customer churn data.  
 It helps understand customer behavior and identify patterns related to churn.
 
 ---
 
-## 🚀 Features
-- 🎛️ Filter customers by gender and contract type
-- 📈 View key metrics like total customers, churn rate, and average charges
-- 📊 Visualize data using bar charts and pie charts
-- 🗄️ Perform SQL analysis using SQLite
-- 🤖 Apply Linear Regression to analyze relationship between tenure and charges
-- ⚠️ Identify high-risk customers based on simple scoring
+## Features
+-  Filter customers by gender and contract type
+-  View key metrics like total customers, churn rate, and average charges
+-  Visualize data using bar charts and pie charts
+-  Perform SQL analysis using SQLite
+-  Apply Linear Regression to analyze relationship between tenure and charges
+-  Identify high-risk customers based on simple scoring
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - Python  
 - Pandas  
 - Streamlit  
@@ -26,23 +26,23 @@ It helps understand customer behavior and identify patterns related to churn.
 
 ---
 
-## 📸 Dashboard Screenshots
+## Dashboard Screenshots
 
-### 🔹 Main Dashboard
+###  Main Dashboard
 ![Dashboard](Screenshots/Dashboard_1.png)
 ![](Screenshots/Dashboard_2.png)
-### 🔹 Charts & Insights
+###  Charts & Insights
 ![Charts](Screenshots/chart1.png)
 ![](Screenshots/chart2.png)
 ![](Screenshots/chart3.png)
 ![](Screenshots/pie.png)
-### 🔹 High Risk Customers
+###  High Risk Customers
 ![High Risk](Screenshots/risk_.png)
 
-### 🔹 SQL Analysis
+###  SQL Analysis
 ![SQL](Screenshots/sql.png)
 
-### 🔹 Linear Regression Output
+###  Linear Regression Output
 ![Regression](Screenshots/regression.png)
 
 
@@ -87,8 +87,8 @@ churn-dashboard/
 ##  Author
 Swathi M K  
 
-- 🔗 [LinkedIn](https://linkedin.com/in/swathi-m-k)  
-- 💻 [GitHub](https://github.com/swathimk2002)
+-  [LinkedIn](https://linkedin.com/in/swathi-m-k)  
+-  [GitHub](https://github.com/swathimk2002)
 
 
 
