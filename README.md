@@ -91,7 +91,3 @@ Swathi M K
 -  [GitHub](https://github.com/swathimk2002)
 
 
-
-## ▶️ How to Run the Project
-
-### 1️⃣ Install required libraries
